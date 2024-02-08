@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "nodemon send.js"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.1"
+  }
+}
